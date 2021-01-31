@@ -15,3 +15,7 @@ Tabula Rasa transforms Roman Hindi to Devanagari Hindi using Google Translate AP
 - ```npm install``` dependencies
 - ```npm start``` to run app
 - go to [http://localhost:3000](http://localhost:3000)
+
+## Resources
+
+[React Router Example](https://medium.com/swlh/react-js-router-in-examples-93c778a37888)

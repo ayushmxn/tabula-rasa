@@ -1,0 +1,15 @@
+body
+{
+    position: absolute;
+    left: 20%;
+    right: 20%;
+}
+
+@media (max-width: 640px)
+{
+  body
+  {
+    left: 5%;
+    right:5%;
+  }
+}

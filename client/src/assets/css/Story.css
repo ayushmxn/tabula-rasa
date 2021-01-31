@@ -1,0 +1,46 @@
+.Title, Title:disabled
+{
+  background-color: white;
+  border: none;
+  font-size: 40px;
+  color: black;
+  width: 100%;
+  outline: none;
+  cursor: lightgrey;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.Content, .Content:disabled
+{
+  background-color: white;
+  border: none;
+  font-size: 24px;
+  color: grey;
+  width: 100%;
+  outline: none;
+  cursor: lightgrey;
+  font-family: 'Times New Roman', Times, serif;
+  height: 400px;
+  resize: none;
+}
+
+.Update, .Publish
+{
+  font-size: 24px;
+  width: 100px;
+  height: 40px;
+  border: none;
+  color: grey;
+  background-color: white;
+  font-family: 'Times New Roman', Times, serif;
+  outline: none;
+}
+
+@media (max-width: 640px)
+{
+  article
+  {
+    left: 5%;
+    right:5%;
+  }
+}

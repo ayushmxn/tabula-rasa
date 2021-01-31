@@ -1,8 +1,8 @@
 import React from "react";
-import '../assets/css/Page.css';
+import '../assets/css/Translator.css';
 import GCP from '../config/google-cloud-translate';
 
-export default class Page extends React.Component {
+export default class Translator extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
